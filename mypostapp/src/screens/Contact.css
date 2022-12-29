@@ -1,0 +1,11 @@
+.contact-form-container{
+    width: 50vw;
+    /* border: 1px solid orange; */
+}
+/*until screen size is reached 768px keep styling below...*/
+@media(max-width: 768px){
+    .contact-form-container{
+        width: 88vw;
+        /* border: 1px solid orange; */
+    }
+}
